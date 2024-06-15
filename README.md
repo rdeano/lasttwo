@@ -5,3 +5,5 @@ Created with React Native Expo and Supabase
 - Place Bet
 - View Transaction History
 - Signout
+
+https://www.youtube.com/watch?v=gRUwTU5uz9k
